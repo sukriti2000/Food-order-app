@@ -1,0 +1,43 @@
+{
+  "order": {
+    "items": [
+      {
+        "_id": "65a5e71fa6d9faf036888377",
+        "id": "m2",
+        "name": "Margherita Pizza",
+        "price": "12.99",
+        "description": "A classic pizza with fresh mozzarella, tomatoes, and basil on a thin and crispy crust.",
+        "image": "images/margherita-pizza.jpg",
+        "__v": 0,
+        "quantity": 1
+      },
+      {
+        "_id": "65a5df59e9b828a6641d0376",
+        "id": "m1",
+        "name": "Mac & Cheese",
+        "price": "8.99",
+        "description": "Creamy cheddar cheese mixed with perfectly cooked macaroni, topped with crispy breadcrumbs. A classic comfort food.",
+        "image": "images/mac-and-cheese.jpg",
+        "__v": 0,
+        "quantity": 1
+      },
+      {
+        "_id": "65a5e741a6d9faf03688837b",
+        "id": "m4",
+        "name": "Spaghetti Carbonara",
+        "price": "10.99",
+        "description": "Al dente spaghetti with a creamy sauce made from egg yolk, pecorino cheese, pancetta, and pepper.",
+        "image": "images/spaghetti-carbonara.jpg",
+        "__v": 0,
+        "quantity": 1
+      }
+    ],
+    "customer": {
+      "name": "Gupta Sukriti",
+      "email": "sukritijeenu2001@gmail.com",
+      "street": "VPO Bohli panipat refinery",
+      "postal-code": "132140",
+      "city": "Panipat"
+    }
+  }
+}
